@@ -18,5 +18,10 @@ Let's code together
 <div> 
   <a href="https://www.linkedin.com/in/felipe-hondei-aa4662232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:felpsholmes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
 </div>
+
+#
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=FelipeHondei&show_icons=true&rank_icon=github&theme=dark#gh-dark-mode-only)](https://github.com/FelipeHondei/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=FelipeHondei&show_icons=true&rank_icon=github&theme=default#gh-light-mode-only)](https://github.com/FelipeHondei/github-readme-stats#gh-light-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeHondei&layout=compact&theme=dark)

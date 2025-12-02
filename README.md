@@ -15,10 +15,6 @@ Let's code together
 
 ##
 
-<a href="https://github.com/FelipeHondei/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeHondei&show_icons=true\&locale=pt-br&rank_icon=github&theme=dark" />
-</a>
-
 <a href="https://github.com/FelipeHondei/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeHondei&layout=compact&langs_count=8&card_width=320&theme=dark&\&locale=pt-br" />
 </a>
